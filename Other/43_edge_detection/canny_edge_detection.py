@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-
 #additional library to be imported particularly for Google Colab
 #as it doesn't support cv2.imshow() function
 from google.colab.patches import cv2_imshow
